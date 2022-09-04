@@ -1,0 +1,89 @@
+{
+  "mod_elements": [
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logo"
+    },
+    {
+      "name": "ZonaCeroTAB",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zona_cero_tab"
+    },
+    {
+      "name": "HaciaCuenca",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hacia_cuenca"
+    },
+    {
+      "name": "Palito",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palito"
+    },
+    {
+      "name": "Portalframexterior",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portalframexterior"
+    },
+    {
+      "name": "Exterior",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exterior",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.zona_cero.exterior": "Exterior Portal Igniter",
+      "itemGroup.tabzona_cero_tab": "Zona Cero",
+      "block.zona_cero.portalframexterior": "Portalframexterior",
+      "enchantment.zona_cero.hacia_cuenca": "Hacia Cuenca",
+      "item.zona_cero.logo": "Logo",
+      "item.zona_cero.palito": "Palito"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "zona_cero",
+    "modName": "Zona Cero",
+    "version": "1.0.0",
+    "author": "elded, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "zonacero",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

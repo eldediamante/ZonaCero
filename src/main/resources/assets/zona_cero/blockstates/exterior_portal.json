@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "zona_cero:block/exterior_portal_ew"
+    },
+    "axis=x": {
+      "model": "zona_cero:block/exterior_portal_ns"
+    }
+  }
+}
